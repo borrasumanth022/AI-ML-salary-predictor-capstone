@@ -60,11 +60,11 @@ your-capstone-repo/
    cd your-capstone-repo
 2. Open setup_kaggle_auth.ipynb in Google Colab
 3. Set up Kaggle authentication (very important – never commit credentials!)
-- In Colab left sidebar → click the key icon (Secrets)
-- Add new secret:
-- Name: KAGGLE_API_TOKEN
-- Value: Paste the entire content of your kaggle.json file (including {} and quotes)
-- Run the cells in setup_kaggle_auth.ipynb to download and unzip the datasets
+*- In Colab left sidebar → click the key icon (Secrets)
+*- Add new secret:
+*- Name: KAGGLE_API_TOKEN
+*- Value: Paste the entire content of your kaggle.json file (including {} and quotes)
+*- Run the cells in setup_kaggle_auth.ipynb to download and unzip the datasets
 
 4. pen main_project.ipynb in Colab
 - Run cells sequentially
