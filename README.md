@@ -56,8 +56,8 @@ AI-ML-salary-predictor-capstone-repo/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-capstone-repo.git
-   cd your-capstone-repo
+   git clone https://github.com/yourusername/AI-ML-salary-predictor-capstone-repo.git
+   cd AI-ML-salary-predictor-capstone-repo
 2. Open setup_kaggle_auth.ipynb in Google Colab
 3. Set up Kaggle authentication (very important – never commit credentials!)
 - In Colab left sidebar → click the key icon (Secrets)
