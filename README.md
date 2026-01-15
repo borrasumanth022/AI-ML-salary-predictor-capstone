@@ -38,12 +38,12 @@ I combine four complementary Kaggle datasets (total ~180k records after cleaning
 Note: All data is publicly available on Kaggle. No private or scraped data is used.
 
 ## Project Structure
-your-capstone-repo/
-├── main_project.ipynb              # Clean, submission-ready notebook
-├── README.md                       # This file
-├── requirements.txt                # Python dependencies
-├── images/                         # Visualizations, SHAP plots, demo screenshots
-└── .gitignore                      # Ignores credentials, caches, etc.
+AI-ML-salary-predictor-capstone-repo/
+├── AI/ML Salary Predictor.ipynb              
+├── README.md                       
+├── requirements.txt                
+├── images/                         
+└── .gitignore                      
 
 
 ## How to Run the Project
